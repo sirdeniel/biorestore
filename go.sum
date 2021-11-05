@@ -1,3 +1,7 @@
+github.com/rodrigoalcarazdelaosa/wowchemy-shortcode-lottie v0.0.0-20210722201729-df3b5beba043 h1:LZJnQi2aDRW7hNhAK/VnOjkiFI1vOreDBCmJmSSTxao=
+github.com/rodrigoalcarazdelaosa/wowchemy-shortcode-lottie v0.0.0-20210722201729-df3b5beba043/go.mod h1:CarLWRKy1Z29AF826pc7/n53hkGcplo2oi1eYZCFhVU=
+github.com/rodrigoalcarazdelaosa/wowchemy-widget-hero-lottie v0.0.0-20210723222755-5607ebac6b4c h1:i2DPhPa8RIo2YxrniaVXr9x9gPUHn6PFGIDefFVquCI=
+github.com/rodrigoalcarazdelaosa/wowchemy-widget-hero-lottie v0.0.0-20210723222755-5607ebac6b4c/go.mod h1:yDbQZ8JrLgTqTbjdJuRMLapWPJB6QIyUVOcuwdyXTlk=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210526223849-81ba17522966 h1:qQ+BOah36CL2HMtG4NLZGhZ0MGBwq7CPy9DPll1U8Yk=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210526223849-81ba17522966/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210526223849-81ba17522966 h1:WZer9Efx+RVA6ywDcyWNdQyZi3j/Sr77AVy1oHKEu7s=
